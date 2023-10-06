@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EfApiCourse.Api", "EfApiCourse.Api\EfApiCourse.Api.csproj", "{AB7A9718-6C40-4682-ADF4-0454C5CE4171}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EfApiCourse.Infra", "EfApiCourse.Infra\EfApiCourse.Infra.csproj", "{9C48360D-96A8-4A05-AB77-117B9508790A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AB7A9718-6C40-4682-ADF4-0454C5CE4171}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AB7A9718-6C40-4682-ADF4-0454C5CE4171}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AB7A9718-6C40-4682-ADF4-0454C5CE4171}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AB7A9718-6C40-4682-ADF4-0454C5CE4171}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9C48360D-96A8-4A05-AB77-117B9508790A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9C48360D-96A8-4A05-AB77-117B9508790A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9C48360D-96A8-4A05-AB77-117B9508790A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9C48360D-96A8-4A05-AB77-117B9508790A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
